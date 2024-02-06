@@ -63,7 +63,8 @@ HSV <br>
 
  MIT License
 
- Copyright (c) 2024
+ Copyright (c) 2024 Alexander Oetken <br>
+ Copyright (c) 2018-2020 Yuki Koyama
 
  Permission is hereby granted, free of charge, to any person obtaining a copy
  of this software and associated documentation files (the "Software"), to deal
