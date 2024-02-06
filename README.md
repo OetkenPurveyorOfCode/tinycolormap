@@ -20,43 +20,43 @@ int main(void) {
 
 ## Available Colormaps
 
-Parula
+Parula <br>
 ![Parula](./test/parula.bmp)
 
-Heat
+Heat <br>
 ![Heat](./test/heat.bmp)
 
-Jet
+Jet <br>
 ![Jet](./test/jet.bmp)
 
-Turbo
+Turbo <br>
 ![Turbo](./test/turbo.bmp)
 
-Hot
+Hot <br>
 ![Hot](./test/hot.bmp)
 
-Gray
+Gray <br>
 ![Gray](./test/gray.bmp)
 
-Magma
+Magma <br>
 ![Magma](./test/magma.bmp)
 
-Plasma
+Plasma <br>
 ![Plasma](./test/plasma.bmp)
 
-Viridis
+Viridis <br>
 ![Viridis](./test/viridis.bmp)
 
-Cividis
+Cividis <br>
 ![Cividis](./test/cividis.bmp)
 
-Github
+Github <br>
 ![Github](./test/github.bmp)
 
-Cubehelix
+Cubehelix <br>
 ![Cubehelix](./test/cubehelix.bmp)
 
-HSV
+HSV <br>
 ![HSV](./test/hsv.bmp)
 
 
